@@ -1,0 +1,27 @@
+---
+title: "Project Title"
+author: "Team Name"
+date: "01/10/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+Oral presentation should be prepared in `R Markdown` and should be **25-minutes long followed by a 5-minutes long Q-A** session. Oral presentation should be presented evenly and sequentially by each member of the team. Oral presentation should present appropriate details on the following topics (please note that other than Title, Introduction and Conclusion slides, order does not need to necessarily be in the order seen below):
+
+*	Title Slide
+*	Title of project
+*	Team member names
+*	Introduction to Presentation
+  *	Project Goal & Societal Benefits
+  *	Introduction of data & problem statement
+  *	Actions taken (data preparation & visualization, data science packages used, codes etc) 
+  *	Challenges, if any
+  *	Conclusion
+  *	References
+
+Project oral presentation should be prepared collaboratively. The oral presentation will be evaluated according to the evaluation form available in this repo. Finally commit and push all the required files (including `.Rmd` files) just before
+your oral presentation (January 29, 2022 or January 30, 2022) via [GitHub Classroom of MAT381E organization](https://github.com/MAT381E).
+
+
+
